@@ -15,10 +15,12 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_bloc: ^8.0.1
-  firebase_ui_auth: ^1.1.8
+
   intl: ^0.18.1
-  firebase_auth: ^4.2.5
+ 
   bloc: ^8.1.0
+  firebase_ui_auth: ^1.14.0
+  firebase_auth: ^4.17.8
 
 dev_dependencies:
   flutter_lints: ^2.0.1
